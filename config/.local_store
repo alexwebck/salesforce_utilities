@@ -1,0 +1,15 @@
+{
+    "Utils.cls": {
+        "createdById": "00558000000ywzVAAQ", 
+        "createdByName": "Alex Vlasenko", 
+        "createdDate": "2016-06-08 14:46:21", 
+        "fileName": "unpackaged/classes/Utils.cls", 
+        "fullName": "Utils", 
+        "id": "01p58000006N7pdAAC", 
+        "lastModifiedById": "00558000000ywzVAAQ", 
+        "lastModifiedByName": "Alex Vlasenko", 
+        "lastModifiedDate": "2016-06-08 15:04:56", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }
+}

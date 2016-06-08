@@ -1,0 +1,19 @@
+{
+    "username": "salesforce-utilities@corevalue.net", 
+    "environment": "production", 
+    "project_name": "SFutilities", 
+    "workspace": "D:\\Dropbox\\Projects\\app", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "V46YT8XRZG719GBKCCTQ9KJ7FODRB993", 
+    "metadata_container": "1dc58000000QrA5AAK", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

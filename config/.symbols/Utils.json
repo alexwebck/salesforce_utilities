@@ -1,0 +1,69 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "Utils", 
+    "tableDeclaration": {
+        "type": "Utils", 
+        "modifiers": [
+            "public", 
+            "with sharing"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 27, 
+            "line": 5
+        }, 
+        "name": "Utils"
+    }, 
+    "key": "01p58000006N7pdAAC", 
+    "variables": [
+        {
+            "type": "Map", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 61, 
+                "line": 22
+            }, 
+            "name": "parameters"
+        }, 
+        {
+            "type": "PageReference", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 24, 
+                "line": 23
+            }, 
+            "name": "pageReference"
+        }
+    ], 
+    "id": "01p58000006N7pdAAC", 
+    "methods": [
+        {
+            "modifiers": [
+                "static", 
+                "public"
+            ], 
+            "name": "buildURLParameters", 
+            "parameters": [
+                {
+                    "type": "Map", 
+                    "name": "parameters"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 23, 
+                "line": 22
+            }, 
+            "returnType": "String", 
+            "type": null
+        }
+    ]
+}
